@@ -19,9 +19,9 @@ public class Launcher {
 
 	public static Launcher i;
 	
-	private static final String NAME = "Anicavity";
-	private static final float VERSION = 0.0f;
-	private static final String TITLE = NAME + "  |  v" + VERSION;
+	private static final String NAME = "Voxel Engine";
+	public static final float VERSION = 0.0f;
+	private static final String TITLE = NAME;
 	
 	private boolean running;
 	
